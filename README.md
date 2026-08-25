@@ -203,7 +203,7 @@ Pyhton_Project/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/MudasirManzoor4461/Student_Management_System
 ```
 
 Move into the project directory:
