@@ -1,0 +1,72 @@
+[
+    {
+        "student_id": "101",
+        "name": "Hacker",
+        "age": 19,
+        "email": "mk12@gmail.com",
+        "department": "S.E"
+    },
+    {
+        "student_id": "102",
+        "name": "mudabir",
+        "age": 20,
+        "email": "mudabirrao",
+        "department": "cs"
+    },
+    {
+        "student_id": "Mudasir",
+        "name": "aa",
+        "age": 12,
+        "email": "udasir@gmail.sd",
+        "department": "cs"
+    },
+    {
+        "student_id": "10000",
+        "name": "Jack",
+        "age": 21,
+        "email": "jack@gmail.com",
+        "department": "electrical en"
+    },
+    {
+        "student_id": "23",
+        "name": "232",
+        "age": 12,
+        "email": "muda@g.com",
+        "department": "we"
+    },
+    {
+        "student_id": "45",
+        "name": "jk",
+        "age": 43,
+        "email": "mu@gami.com",
+        "department": "ew"
+    },
+    {
+        "student_id": "123",
+        "name": "Khanx",
+        "age": 20,
+        "email": "mk@gmail.com",
+        "department": "dr"
+    },
+    {
+        "student_id": "1",
+        "name": "MOaz",
+        "age": 12,
+        "email": "moaz@gmail.com",
+        "department": "cs"
+    },
+    {
+        "student_id": "12",
+        "name": "Mudasir",
+        "age": 12,
+        "email": "mu@mail.com",
+        "department": "sc"
+    },
+    {
+        "student_id": "1001",
+        "name": "Mudasir Manzoor",
+        "age": 19,
+        "email": "mudasirkhan4461@gmail.com",
+        "department": "Computer Science"
+    }
+]
